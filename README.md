@@ -29,10 +29,12 @@ Yes. And expect errors.
 Actually I don't have much time to work on this, you can submit an issue and I'll see what I can do, or fork and debug.
 
 ## screenshots?
-Sure! Two there, more in the "screenshots" directory.
+Sure! Two there, but more in the "screenshots" directory. None of the screenshot show columns "inside" a building (or in a cave),
+none of the screenshot show the effects of combining "multicolumn" and "air"... so, if you have better screenshots; why not 
+add them here?
 
 **A cathedral like silver sand set of columns**
 ![A cathedral like silver sand set of columns](https://github.com/elettrico/columns/blob/master/screenshots/cathedral_like_silversand.png)
 
-**Bronze platforms? Maybe made by ancient aliens?**
+**Bronze platforms? Maybe made by ancient aliens??**
 ![Bronze platforms? Maybe made by ancient aliens?](https://github.com/elettrico/columns/blob/master/screenshots/bronze_colums_or_platform.png)
